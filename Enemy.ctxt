@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ Enemy\ spider.\ Can\ sense\ your\ vibrations\ and\ eat\ you\ if\ you\ get\ close\ enough.\ Will\ avoid\ platforms,\ but\ can\ demolish\ them\ if\ they\ get\ between\ you.\r\n\ \r\n\ @author\ Harry\ Robinson\ 22787039\r\n\ @version\ 1.0\r\n
+comment1.params=myWorld
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ demolish()
+comment4.params=
+comment4.target=void\ attack()
+comment5.params=
+comment5.target=void\ move()
+numComments=6

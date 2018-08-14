@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Food
+comment0.text=\r\n\ Spiderlings\ to\ snack\ on\ and\ increase\ player\ food\ score.\ Can't\ survive\ if\ their\ platform\ is\ gone.\r\n\ @author\ Harry\ Robinson\ 22787039\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ move()
+numComments=3
